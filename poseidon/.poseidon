@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<projectDescription>
+	<style>0</style>
+	<name>Hades</name>
+	<targetName>..\bin\Hades</targetName>
+	<comment />
+	<filter>*.d</filter>
+	<showemptyfolder>0</showemptyfolder>
+	<buildSpec>
+		<buildType>0</buildType>
+		<mainFile />
+		<Args />
+		<options>
+			<dmd> -debug -g -unittest </dmd>
+			<tool />
+			<lib />
+			<implib />
+			<extra />
+			<toolextra />
+			<merge>0</merge>
+			<nonfiles>0</nonfiles>
+			<useimplib>0</useimplib>
+			<mapfile>0</mapfile>
+			<gcstub>0</gcstub>
+		</options>
+		<dmdpath />
+		<dmcpath />
+		<buildtoolexe />
+		<projectFiles>
+			<source>
+				<name>C:\dev\HadesIDE\src\main.d</name>
+			</source>
+			<interface />
+			<resource />
+			<othersDMD />
+			<others />
+		</projectFiles>
+		<includePaths>
+			<name>C:\dev\gtkD\src</name>
+		</includePaths>
+		<linkLibrarys>
+			<name>..\lib\GtkD.lib</name>
+		</linkLibrarys>
+		<importExpressions />
+	</buildSpec>
+</projectDescription>
