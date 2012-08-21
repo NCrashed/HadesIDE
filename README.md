@@ -8,4 +8,4 @@ GUI library: GtkD 1.5.1
 Attention
 =========
 
-Now i am experementing with parser and compiling theory. Some strange sources can temporary occures in rep.
+Now i am experementing with parser and compiling theory. Some strange sources can temporary occure in rep.
